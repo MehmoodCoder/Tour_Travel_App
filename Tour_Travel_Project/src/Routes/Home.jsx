@@ -2,6 +2,7 @@ import NavBar from '../Components/NavBar.jsx'
 import Hero from '../Components/Hero.jsx'
 import Destination from '../Components/Destination.jsx';
 import Trip from '../Components/Trip.jsx';
+import Footer from '../Components/Footer.jsx';
 function Home(){
     return(
         <>
@@ -15,8 +16,9 @@ function Home(){
         buttonText = "Explore Now"
         btnClass = "show"
         />
-        <Destination/>
-        <Trip/>
+        <Destination />
+        <Trip />
+        <Footer />
         </>
     )
 }

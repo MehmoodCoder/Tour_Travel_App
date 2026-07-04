@@ -15,12 +15,12 @@ function Trip(props) {
                 <TripData
                 image = "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 heading = "Machu Picchu, Peru"
-                text = "Machu Picchu is an ancient Incan citadel located in the Andes Mountains of Peru. It is renowned for its archaeological significance, stunning architecture, and breathtaking panoramic views. Built in the 15th century, Machu Picchu served as a royal estate and religious site for the Inca civilization. The site features well-preserved stone structures, terraces, and temples that showcase the advanced engineering skills of the Incas. Machu Picchu is a UNESCO World Heritage Site and attracts visitors from around the world who come to explore its rich history and natural beauty."
+                text = "Machu Picchu is an ancient Incan citadel located in the Andes Mountains of Peru. It is renowned for its archaeological significance, and breathtaking panoramic views. Built in the 15th century, Machu Picchu served as a royal estate site for the Inca civilization. The site features well-preserved stone structures, and temples that showcase the engineering skills of the Incas. Machu Picchu is a UNESCO World Heritage Site and attracts visitors from around the world who come to explore its natural beauty."
                 />
                 <TripData
                 image = "https://plus.unsplash.com/premium_photo-1698430566772-aaf6d1b8a37a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZnJlZSUyMGltYWdlcyUyMG9mJTIwbmF0dXJlJTIwbW9udGFpbnN8ZW58MHx8MHx8fDA%3D"
                 heading = "Barrier Reef, Australia"
-                text = "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia. It is renowned for its incredible biodiversity, vibrant coral formations, and crystal-clear waters. The reef stretches over 2,300 kilometers (1,400 miles) and is home to a vast array of marine life, including colorful fish, sea turtles, sharks, and dolphins. The Great Barrier Reef is a UNESCO World Heritage Site and attracts snorkelers, divers, and nature enthusiasts from around the globe who come to explore its underwater wonders."
+                text = "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia. It is renowned for its incredible biodiversity, and crystal-clear waters. The reef stretches over 2,300 kilometers and is home to a vast array of marine life, including colorful fish, sea turtles, sharks, and dolphins. The Great Barrier Reef is a UNESCO World Heritage Site and attracts snorkelers, and nature enthusiasts from around the globe who come to explore its underwater wonders."
                 />
             </div>
         </div>

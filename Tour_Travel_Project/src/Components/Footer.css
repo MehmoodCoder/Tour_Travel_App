@@ -1,0 +1,65 @@
+.icons{
+    color: #fff;
+}
+.footer{
+    padding: 4rem 6rem;
+    background: #111;
+    color: #fff;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.top i{
+    color: #fff;
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+.top i:hover{
+    color: #504f4f;
+}
+.top h1{
+    text-align: start;
+}
+.bottom{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+    flex-wrap: wrap;
+}
+.bottom div{
+    display: flex;
+    flex-direction: column;
+}
+.bottom h4{
+    padding: 1rem 0 .8rem 0;
+    font-size: 1.2rem;
+    text-align: start;
+}
+.bottom a{
+    text-decoration: none;
+    text-align: start;
+    color: #fafafa;
+    font-size: .9rem;
+}
+.bottom a:hover{
+    color: #8d8c8c;
+}
+
+
+@media screen and (max-width: 850px){
+    .footer{
+        padding: 4rem 2rem;
+    }
+    .footer i{
+        margin: 1rem 1rem 0 0;
+    }
+    .bottom div{
+        width: 50%;
+        margin-right: auto;
+    }
+}

@@ -1,5 +1,8 @@
 import NavBar from '../Components/NavBar.jsx'
 import Hero from '../Components/Hero.jsx'
+import Footer from '../Components/Footer.jsx'
+import Trip from "../Components/Trip.jsx"
+
 function Services(){
     return(
         <>
@@ -10,6 +13,8 @@ function Services(){
         title = "Services"
         btnClass = "hide"
         />
+        <Trip/>
+        <Footer/>
         </>
     )
 }

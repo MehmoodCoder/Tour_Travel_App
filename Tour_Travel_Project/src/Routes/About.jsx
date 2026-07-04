@@ -1,5 +1,8 @@
 import NavBar from '../Components/NavBar.jsx'
 import Hero from '../Components/Hero.jsx'
+import Footer from '../Components/Footer.jsx'
+import AboutUs from '../Components/AboutUs.jsx'
+
 function About(){
     return(
        <>
@@ -10,6 +13,8 @@ function About(){
         title = "About"
         btnClass = "hide"
         />
+        <AboutUs/>
+        <Footer />
         </> 
     )
 }

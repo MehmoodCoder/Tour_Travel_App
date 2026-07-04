@@ -1,5 +1,8 @@
 import NavBar from '../Components/NavBar.jsx'
 import Hero from '../Components/Hero.jsx'
+import Footer from '../Components/Footer.jsx'
+import ContactForm from '../Components/ContactForm.jsx'
+
 function Contact(){
     return(
         <>
@@ -10,6 +13,8 @@ function Contact(){
         title = "Contact"
         btnClass = "hide"
         />
+        <ContactForm/>
+        <Footer/>
         </>
     )
 }
