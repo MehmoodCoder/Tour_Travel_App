@@ -38,6 +38,7 @@ Tour_Travel_Project/
 ├── index.html              # HTML entry point
 ├── vercel.json             # Vercel
 ├── package.json            # Project dependencies and scripts
+├── package-lock.json 
 ├── vite.config.js          # Vite configuration
 ├── public/                 # Static assets
 ├── src/
@@ -113,6 +114,43 @@ Tour_Travel_Project/
 
 ---
 
+## 📦 How to Setup & Build This Project From Scratch
+
+Every time I initialize a new React + Tailwind CSS project, I follow these exact standard steps. You can use this guide to recreate or understand the workspace structure:
+
+### Step 1: Initialize Vite Project
+Run the following command in your terminal:
+```bash
+npm create vite@latest
+```
+
+## During the prompt configuration, fill out the selections exactly like this:
+
+​Proceed? y 
+​Project Name: Your_Project_Name ​
+Package Name: your_package_name ​
+Select a framework: React ​
+Select a variant: JavaScript 
+​With oxy? No ​
+Install with npm? Yes 
+
+---
+
+## 💻 How to Run the Project Local Environment 
+
+​If you want to pull this project and run it again locally, simply execute these commands:
+
+```
+# Navigate to the project folder
+cd Bg_Changer_Project
+
+# Start the local development server
+npm run dev
+
+```
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -141,7 +179,7 @@ npm run dev
 
 4. **Open in browser**
 ```
-http://localhost:5173
+[Tuor App](https://tour-travel-app-ruby.vercel.app/)
 ```
 
 ---
@@ -171,8 +209,10 @@ This project uses ** CSS ** for all styling.
 2. Go to [vercel.com](https://vercel.com)
 3. Click "New Project"
 4. Connect your GitHub repository
-5. Vercel automatically detects Vite settings
-6. Click "Deploy"
+5. Connect the exact project folder containing `package.json` to avoid nested directory issues
+6. Vercel automatically detects Vite settings
+7. Toggle the "Build Command" and write `npm run build` manually to override it
+8. Click "Deploy"
 
 ---
 
