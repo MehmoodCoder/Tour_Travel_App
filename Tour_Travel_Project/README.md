@@ -185,7 +185,7 @@ npm run dev
 
 4. **Open in browser**
 ```
-Project Link : [Tuor App](https://tour-travel-app-ruby.vercel.app/)
+Project Link : [Tuor App](https://tour-travel-app-ruby.vercel.app)
 ```
 
 ---
