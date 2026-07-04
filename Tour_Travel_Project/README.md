@@ -36,6 +36,7 @@ A modern, responsive React application for showcasing holiday travel packages. B
 ```
 Tour_Travel_Project/
 ├── index.html              # HTML entry point
+├── vercel.json             # Vercel
 ├── package.json            # Project dependencies and scripts
 ├── vite.config.js          # Vite configuration
 ├── public/                 # Static assets
