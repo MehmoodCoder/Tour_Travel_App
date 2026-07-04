@@ -6,6 +6,14 @@ A modern, responsive React application for showcasing holiday travel packages. B
 
 ---
 
+## 🛠️ Tech Stack
+* **Framework:** React.js (Vite Template)
+* **Styling:** CSS 
+* **Language:** JavaScript (ES6+), HTML, CSS
+* **Hosting:** Vercel
+
+---
+
 ## ✨ Features
 
 - 🎨 **Modular Components** – 5+ reusable, independent UI components
