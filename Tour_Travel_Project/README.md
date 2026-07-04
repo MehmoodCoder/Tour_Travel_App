@@ -127,11 +127,17 @@ npm create vite@latest
 ## During the prompt configuration, fill out the selections exactly like this:
 
 ​Proceed? y 
-​Project Name: Your_Project_Name ​
+
+​Project Name: Your_Project_Name 
+​
 Package Name: your_package_name ​
+
 Select a framework: React ​
+
 Select a variant: JavaScript 
+
 ​With oxy? No ​
+
 Install with npm? Yes 
 
 ---
@@ -179,7 +185,7 @@ npm run dev
 
 4. **Open in browser**
 ```
-[Tuor App](https://tour-travel-app-ruby.vercel.app/)
+Project Link : [Tuor App](https://tour-travel-app-ruby.vercel.app/)
 ```
 
 ---
